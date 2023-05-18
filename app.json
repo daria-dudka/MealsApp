@@ -24,6 +24,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Meal Recipe App built with React Native, Stack Navigator, Drawer Navigator and Context API"
   }
 }
